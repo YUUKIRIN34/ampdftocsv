@@ -1,0 +1,10 @@
+/* スタイル定義 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#dropzone {
+  cursor: pointer;
+  background-color: #f8f9fa;
+}

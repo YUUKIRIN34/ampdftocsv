@@ -1,0 +1,7 @@
+# 入力ファイルと出力ファイルは除外する
+/input/
+/output/
+
+# OS依存のファイル
+.DS_Store
+Thumbs.db
