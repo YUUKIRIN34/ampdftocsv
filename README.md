@@ -42,10 +42,6 @@ git clone https://github.com/yourusername/amazonpdftocsv.git
 2. Webサーバーを起動（例：VS CodeのLive Server等）
 3. ブラウザでindex.htmlにアクセス
 
-## ライセンス
-
-MIT License
-
 ## 貢献
 
 1. Forkする
